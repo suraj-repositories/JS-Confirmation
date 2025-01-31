@@ -1,4 +1,4 @@
-
+// confirmation 
 class Confirm {
 
     static confirmationModal({
